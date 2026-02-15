@@ -12,7 +12,6 @@ namespace APIVerve.API.JulianDayCalculator
     {
         /// <summary>
         /// The Gregorian date in YYYY-MM-DD format
-        /// Example: 2024-03-15
         /// </summary>
         [JsonProperty("date")]
         public string Date { get; set; }
