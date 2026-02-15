@@ -1,1 +1,3 @@
-from .apiClient import JuliandayAPIClient
+from .apiClient import JuliandayAPIClient, JuliandayAPIClientError
+
+__all__ = ['JuliandayAPIClient', 'JuliandayAPIClientError']
