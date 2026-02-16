@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/julianday",
-  "version": "1.1.13",
+  "version": "1.1.14",
   "description": "Julian Day Calculator converts between Gregorian calendar dates and Julian Day Numbers (JDN). Julian Day is a continuous count of days used in astronomy and historical research.",
   "main": "index.js",
   "types": "index.d.ts",
