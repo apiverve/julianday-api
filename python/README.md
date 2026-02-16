@@ -219,8 +219,9 @@ from apiverve_juliandaycalculator.apiClient import JuliandayAPIClient
 
 api = JuliandayAPIClient("[YOUR_API_KEY]")
 
+query = { "date": "2024-03-15" }
+
 try:
-    query = { "date": "2024-03-15" }
     result = api.execute(query)
     print(result)
 finally:
