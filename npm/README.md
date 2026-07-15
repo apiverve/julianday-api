@@ -125,7 +125,10 @@ async function makeRequest() {
     "gregorian": "2024-03-15",
     "julianDayNumber": 2460385,
     "modifiedJulianDate": 60384.5,
-    "dayOfWeek": "Friday"
+    "dayOfWeek": "Friday",
+    "weekNumber": 11,
+    "dayOfYear": 75,
+    "daysFromToday": -340
   }
 }
 ```
