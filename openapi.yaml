@@ -55,6 +55,9 @@ paths:
                   julianDayNumber: 2460385
                   modifiedJulianDate: 60384.5
                   dayOfWeek: Friday
+                  weekNumber: 11
+                  dayOfYear: 75
+                  daysFromToday: -340
         '401':
           description: Your request was not authorized, or your API Key was invalid
         '404':
