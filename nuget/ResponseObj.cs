@@ -25,20 +25,44 @@ namespace APIVerve.API.JulianDayCalculator
 
         [JsonProperty("data")]
         public Data Data { get; set; }
+
+        [JsonProperty("premium")]
+        public Premium Premium { get; set; }
     }
 
     public partial class Data
     {
         [JsonProperty("gregorian")]
-        public DateTimeOffset Gregorian { get; set; }
+        public DateTimeOffset? Gregorian { get; set; }
 
         [JsonProperty("julianDayNumber")]
-        public long JulianDayNumber { get; set; }
+        public long? JulianDayNumber { get; set; }
 
         [JsonProperty("modifiedJulianDate")]
-        public double ModifiedJulianDate { get; set; }
+        public double? ModifiedJulianDate { get; set; }
 
         [JsonProperty("dayOfWeek")]
         public string DayOfWeek { get; set; }
+
+        [JsonProperty("weekNumber")]
+        public long? WeekNumber { get; set; }
+
+        [JsonProperty("dayOfYear")]
+        public long? DayOfYear { get; set; }
+
+        [JsonProperty("daysFromToday")]
+        public long? DaysFromToday { get; set; }
+    }
+
+    public partial class Premium
+    {
+        [JsonProperty("message")]
+        public string Message { get; set; }
+
+        [JsonProperty("upgrade_url")]
+        public Uri UpgradeUrl { get; set; }
+
+        [JsonProperty("locked_fields")]
+        public string[] LockedFields { get; set; }
     }
 }
