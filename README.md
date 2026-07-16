@@ -191,11 +191,34 @@ x-api-key: YOUR_API_KEY_HERE
 Get your API key: [https://apiverve.com](https://apiverve.com)
 
 ### Response Format
-All responses are JSON with this structure:
+
+Every APIVerve endpoint returns the same envelope — check `status`, then read `data`:
+
 ```json
 {
   "status": "ok",
+  "error": null,
   "data": { ... }
+}
+```
+
+### Example Response
+
+A real response from the Julian Day Calculator API:
+
+```json
+{
+  "status": "ok",
+  "error": null,
+  "data": {
+    "gregorian": "2024-03-15",
+    "julianDayNumber": 2460385,
+    "modifiedJulianDate": 60384.5,
+    "dayOfWeek": "Friday",
+    "weekNumber": 11,
+    "dayOfYear": 75,
+    "daysFromToday": -340
+  }
 }
 ```
 
