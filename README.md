@@ -1,13 +1,13 @@
-# [Julian Day Calculator API](https://apiverve.com/marketplace/julianday?utm_source&#x3D;github&amp;utm_medium&#x3D;readme)
+# [Julian Day Calculator API](https://apiverve.com/marketplace/julianday?utm_source&#x3D;github&amp;utm_medium&#x3D;referral&amp;utm_content&#x3D;readme)
 
 Julian Day Calculator converts between Gregorian calendar dates and Julian Day Numbers (JDN). Julian Day is a continuous count of days used in astronomy and historical research.
 
 The Julian Day Calculator API provides a simple, reliable way to integrate julian day calculator functionality into your applications. Built for developers who need production-ready julian day calculator capabilities without the complexity of building from scratch.
 
-**[View API Details →](https://apiverve.com/marketplace/julianday?utm_source&#x3D;github&amp;utm_medium&#x3D;readme)**
+**[View API Details →](https://apiverve.com/marketplace/julianday?utm_source&#x3D;github&amp;utm_medium&#x3D;referral&amp;utm_content&#x3D;readme)**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![API Status](https://img.shields.io/badge/Status-Active-green.svg)](https://apiverve.com/marketplace/julianday?utm_source&#x3D;github&amp;utm_medium&#x3D;readme)
+[![API Status](https://img.shields.io/badge/Status-Active-green.svg)](https://apiverve.com/marketplace/julianday?utm_source&#x3D;github&amp;utm_medium&#x3D;referral&amp;utm_content&#x3D;readme)
 [![Method](https://img.shields.io/badge/Method-GET-blue.svg)](#)
 [![Platform](https://img.shields.io/badge/Platform-Multi--Platform-orange.svg)](#installation)
 
@@ -161,7 +161,7 @@ go get github.com/apiverve/julianday-api/go
 
 ## Documentation
 
-- 🏠 **API Home:** [Julian Day Calculator API](https://apiverve.com/marketplace/julianday?utm_source&#x3D;github&amp;utm_medium&#x3D;readme)
+- 🏠 **API Home:** [Julian Day Calculator API](https://apiverve.com/marketplace/julianday?utm_source&#x3D;github&amp;utm_medium&#x3D;referral&amp;utm_content&#x3D;readme)
 - 📚 **API Reference:** [docs.apiverve.com/ref/julianday](https://docs.apiverve.com/ref/julianday)
 - 📖 **OpenAPI Spec:** [openapi.yaml](./openapi.yaml)
 - 💡 **Examples:** [examples/](./examples/)
@@ -226,7 +226,7 @@ A real response from the Julian Day Calculator API:
 
 ## Support & Community
 
-- 🏠 **API Home**: [Julian Day Calculator API](https://apiverve.com/marketplace/julianday?utm_source&#x3D;github&amp;utm_medium&#x3D;readme)
+- 🏠 **API Home**: [Julian Day Calculator API](https://apiverve.com/marketplace/julianday?utm_source&#x3D;github&amp;utm_medium&#x3D;referral&amp;utm_content&#x3D;readme)
 - 💬 **Support**: [https://apiverve.com/contact](https://apiverve.com/contact)
 - 🐛 **Issues**: [GitHub Issues](../../issues)
 - 📖 **Documentation**: [https://docs.apiverve.com](https://docs.apiverve.com)

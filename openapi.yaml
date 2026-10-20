@@ -19,7 +19,7 @@ servers:
 paths:
   /v1/julianday:
     get:
-      summary: Convert Gregorian to Julian Day
+      summary: Julian Day Calculator
       description: Convert a Gregorian date to Julian Day Number
       operationId: julianday
       parameters:
