@@ -4,6 +4,6 @@ require_relative "apiverve_julianday/client"
 
 module APIVerve
   module Julianday
-    VERSION = "1.2.3"
+    VERSION = "1.2.4"
   end
 end
