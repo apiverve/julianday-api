@@ -1,6 +1,6 @@
 name: apiverve_julianday
 description: "Julian Day Calculator converts between Gregorian calendar dates and Julian Day Numbers (JDN). Julian Day is a continuous count of days used in astronomy and historical research."
-version: 1.2.5
+version: 1.2.6
 homepage: https://apiverve.com/marketplace/julianday?utm_source=dart&utm_medium=referral&utm_content=homepage
 repository: https://github.com/apiverve/julianday-api/tree/main/dart
 
